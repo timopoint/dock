@@ -1,0 +1,1 @@
+print("hello my friend! \n Oooh there is nothing.... \n That's so SUS!")
